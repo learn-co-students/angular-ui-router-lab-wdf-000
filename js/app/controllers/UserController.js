@@ -1,4 +1,5 @@
-function UserController() {
+function UserController(test) {
+  console.log(test)
 }
 
 angular
